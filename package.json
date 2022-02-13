@@ -1,0 +1,11 @@
+{
+  "name": "frontend-practico",
+  "version": "1.0.0",
+  "description": "Project course frontend developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alfredo Martinez",
+  "license": "ISC"
+}
